@@ -56,4 +56,5 @@ svn co https://github.com/hubutui/p7zip-lede/trunk package/p7zip
 # git apply ../router-config/patches/{0001*,0002*}.patch --directory=feeds/luci
 #
 # ------------------------------- Other ends -------------------------------
-
+git clone https://github.com/vernesong/OpenClash
+git clone https://github.com/xiaorouji/openwrt-passwall
